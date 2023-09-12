@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Live Links
 
-- Live API : [Live API](https://ruth-labs.jameesjohn.com/graphql)
+- Live API : [Live API](https://hng-second-task.onrender.com/api)
 
 
 ### Built with
