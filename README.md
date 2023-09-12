@@ -17,7 +17,7 @@ This is a solution to the Backend hng-stage2-task.
 
 Users should be able to:
 
-- Add, Update, Read and Delete a person
+- Add, Update, Read, and Delete a person
 
 ### Live Links
 
@@ -40,7 +40,7 @@ git clone https://github.com/Ruthiejayjay/hng-second-task
 ---
 <strong>Starting server:</strong>
 
-Open new terminal in project and run the following
+Open a new terminal in the project and run the following
 ```
 cd hng-second-task
 
