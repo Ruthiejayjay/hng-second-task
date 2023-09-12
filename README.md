@@ -59,6 +59,5 @@ php artisan serve
 Check routes/api.php file for different routes
 
 ### Testing on Postman
-[Live Api Documentation]()
 
-[Local APi Documentation](https://documenter.getpostman.com/view/17049297/2s9YC31ZqR)
+[APi Documentation](https://documenter.getpostman.com/view/17049297/2s9YC31ZqR)
